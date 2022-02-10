@@ -76,3 +76,18 @@ footer {
 h3 {
   padding-bottom: 5px;
 }
+
+@media screen and (max-width: 768px) {
+  .main-boxs {
+    width: 100%;
+    display: block;
+  }
+  .main-box {
+    margin: 0 auto;
+    width: 90%;
+    margin-bottom: 20px;
+  }
+  .main-image1 {
+    background-size: 100%;
+  }
+}
