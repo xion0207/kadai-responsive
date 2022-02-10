@@ -1,3 +1,35 @@
-h1 {
-  color: orange;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-top {
+  height: 50px;
+  background-color: red;
+}
+
+.header-bottom {
+  width: 100%;
+  height: 500px;
+  background-color: orange;
+}
+
+.main-usiro {
+  width: 960px;
+  height: 1400px;
+  margin: 0 auto;
+  background-color: palegreen;
+}
+
+.main-mae {
+  width: 500px;
+  height: 1400px;
+  margin: 0 auto;
+  background-color: green;
+}
+
+footer {
+  height: 100px;
+  background-color: blue;
 }
