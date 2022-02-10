@@ -1,2 +1,2 @@
-HTML･CSSを学ぼう
-hapter2
+HTML・CSSを学ぼう
+３章。
